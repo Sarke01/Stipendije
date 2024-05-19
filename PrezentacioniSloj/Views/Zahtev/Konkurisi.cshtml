@@ -1,0 +1,31 @@
+﻿@using PrezentacioniSloj.Models;
+@model int
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/css/site.css" rel="stylesheet" /> <!-- Dodavanje glavnog CSS fajla -->
+
+<h1>Konkurisi za stipendiju: @Model</h1>
+<form method="post" asp-controller="Zahtev" asp-action="Kreiraj" class="konkurisi-form">
+    <input type="hidden" name="StipendijaId" value="@Model" />
+    <div class="form-group">
+        <label for="finPotreba">Finansijska potreba:</label>
+        <input type="checkbox" id="finPotreba" name="FinansijskaPotreba" />
+    </div>
+
+    <div class="form-group">
+        <label for="drustvAngazovanje">Društveno angažovanje:</label>
+        <input type="checkbox" id="drustvAngazovanje" name="DrustvenoAngazovanje" />
+    </div>
+
+    <div class="form-group">
+        <label for="akademUspeh">Akademski uspeh:</label>
+        <input type="text" id="akademUspeh" name="AkademskiUspeh" class="form-control" required/>
+    </div>
+
+    <div class="form-group">
+        <label for="razlozi">Razlozi:</label>
+        <textarea id="razlozi" name="Razlozi" class="form-control" rows="4"></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Konkuriši</button>
+</form>

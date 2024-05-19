@@ -1,0 +1,76 @@
+﻿@using SlojPodataka.Klase;
+<!DOCTYPE html>
+<html lang="en">
+
+@{
+    var korisnik = ViewData["Korisnik"] as Korisnik;
+}
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Konkurs za stipendije</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Pocetna">Stipendije</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Pocetna">Pocetna</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="OServisu">O servisu</a>
+                        </li>
+                    </ul>
+                    @if (korisnik.Ime != null)
+                    {
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <form method="post" asp-area="" asp-controller="Korisnik" asp-action="Profil">
+                                    <input type="hidden" name="Jmbg" value="@korisnik.Jmbg" />
+    
+                                    <!-- Sva polja forme su skrivena -->
+                                    <div style="display: none;">
+                                        <input type="hidden" id="Ime" name="Ime" value="@korisnik.Ime" />
+                                        <input type="hidden" id="Prezime" name="Prezime" value="@korisnik.Prezime" />
+                                        <input type="hidden" id="Email" name="Email" value="@korisnik.Email" />
+                                        <input type="hidden" id="Lozinka" name="Lozinka" value="@korisnik.Lozinka" />
+                                        <input type="hidden" id="Drzavljanstvo" name="Drzavljanstvo" value="@korisnik.Drzavljanstvo" />
+                                        <input type="hidden" id="IsAdmin" name="IsAdmin" value="@korisnik.IsAdmin" /> 
+                                    </div>
+                                    <!-- Dugme "Profil" -->
+                                    <button type="submit">Profil</button>
+                                </form>
+                            </li>
+                        </ul>
+                    }
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - Konkurs za stipendije - <a asp-area="" asp-controller="Home" asp-action="OServisu">O servisu</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

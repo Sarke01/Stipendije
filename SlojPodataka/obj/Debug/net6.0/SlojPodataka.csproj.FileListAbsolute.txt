@@ -1,0 +1,24 @@
+C:\Users\Ryzen\source\repos\Stipendije\SlojPodataka\bin\Debug\net6.0\SlojPodataka.deps.json
+C:\Users\Ryzen\source\repos\Stipendije\SlojPodataka\bin\Debug\net6.0\SlojPodataka.dll
+C:\Users\Ryzen\source\repos\Stipendije\SlojPodataka\bin\Debug\net6.0\SlojPodataka.pdb
+C:\Users\Ryzen\source\repos\Stipendije\SlojPodataka\obj\Debug\net6.0\SlojPodataka.csproj.AssemblyReference.cache
+C:\Users\Ryzen\source\repos\Stipendije\SlojPodataka\obj\Debug\net6.0\SlojPodataka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\source\repos\Stipendije\SlojPodataka\obj\Debug\net6.0\SlojPodataka.AssemblyInfoInputs.cache
+C:\Users\Ryzen\source\repos\Stipendije\SlojPodataka\obj\Debug\net6.0\SlojPodataka.AssemblyInfo.cs
+C:\Users\Ryzen\source\repos\Stipendije\SlojPodataka\obj\Debug\net6.0\SlojPodataka.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\source\repos\Stipendije\SlojPodataka\obj\Debug\net6.0\SlojPodataka.dll
+C:\Users\Ryzen\source\repos\Stipendije\SlojPodataka\obj\Debug\net6.0\refint\SlojPodataka.dll
+C:\Users\Ryzen\source\repos\Stipendije\SlojPodataka\obj\Debug\net6.0\SlojPodataka.pdb
+C:\Users\Ryzen\source\repos\Stipendije\SlojPodataka\obj\Debug\net6.0\ref\SlojPodataka.dll
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\SlojPodataka\bin\Debug\net6.0\SlojPodataka.deps.json
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\SlojPodataka\bin\Debug\net6.0\SlojPodataka.dll
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\SlojPodataka\bin\Debug\net6.0\ref\SlojPodataka.dll
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\SlojPodataka\bin\Debug\net6.0\SlojPodataka.pdb
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\SlojPodataka\obj\Debug\net6.0\SlojPodataka.csproj.AssemblyReference.cache
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\SlojPodataka\obj\Debug\net6.0\SlojPodataka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\SlojPodataka\obj\Debug\net6.0\SlojPodataka.AssemblyInfoInputs.cache
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\SlojPodataka\obj\Debug\net6.0\SlojPodataka.AssemblyInfo.cs
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\SlojPodataka\obj\Debug\net6.0\SlojPodataka.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\SlojPodataka\obj\Debug\net6.0\SlojPodataka.dll
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\SlojPodataka\obj\Debug\net6.0\ref\SlojPodataka.dll
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\SlojPodataka\obj\Debug\net6.0\SlojPodataka.pdb

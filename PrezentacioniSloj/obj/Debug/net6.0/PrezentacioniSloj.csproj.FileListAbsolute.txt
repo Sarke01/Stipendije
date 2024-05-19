@@ -1,0 +1,81 @@
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\appsettings.json
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\PrezentacioniSloj.staticwebassets.runtime.json
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\PrezentacioniSloj.exe
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\PrezentacioniSloj.deps.json
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\PrezentacioniSloj.runtimeconfig.json
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\PrezentacioniSloj.dll
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\PrezentacioniSloj.pdb
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\AplikacioniSloj.dll
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\SlojPodataka.dll
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\AplikacioniSloj.pdb
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\SlojPodataka.pdb
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.csproj.AssemblyReference.cache
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.AssemblyInfoInputs.cache
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.AssemblyInfo.cs
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.RazorAssemblyInfo.cache
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.RazorAssemblyInfo.cs
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\staticwebassets\msbuild.PrezentacioniSloj.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\staticwebassets\msbuild.build.PrezentacioniSloj.props
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PrezentacioniSloj.props
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PrezentacioniSloj.props
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\scopedcss\bundle\PrezentacioniSloj.styles.css
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.csproj.CopyComplete
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.dll
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\refint\PrezentacioniSloj.dll
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.pdb
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.genruntimeconfig.cache
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\ref\PrezentacioniSloj.dll
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\DomenskiSloj.dll
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\DomenskiSloj.pdb
+C:\Users\Ryzen\source\repos\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\appsettings.json
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\PrezentacioniSloj.staticwebassets.runtime.json
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\PrezentacioniSloj.exe
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\PrezentacioniSloj.deps.json
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\PrezentacioniSloj.runtimeconfig.json
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\PrezentacioniSloj.dll
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\ref\PrezentacioniSloj.dll
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\PrezentacioniSloj.pdb
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\AplikacioniSloj.dll
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\DomenskiSloj.dll
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\SlojPodataka.dll
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\AplikacioniSloj.pdb
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\SlojPodataka.pdb
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\bin\Debug\net6.0\DomenskiSloj.pdb
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.csproj.AssemblyReference.cache
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.AssemblyInfoInputs.cache
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.AssemblyInfo.cs
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.RazorAssemblyInfo.cache
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.RazorAssemblyInfo.cs
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\scopedcss\bundle\PrezentacioniSloj.styles.css
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.csproj.CopyComplete
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.dll
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\ref\PrezentacioniSloj.dll
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.pdb
+C:\Users\mihaj\OneDrive\Radna površina\Stipendije\Stipendije\PrezentacioniSloj\obj\Debug\net6.0\PrezentacioniSloj.genruntimeconfig.cache

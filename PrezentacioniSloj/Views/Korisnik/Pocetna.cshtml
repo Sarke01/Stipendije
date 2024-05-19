@@ -1,0 +1,107 @@
+﻿@using SlojPodataka.Klase;
+@model PrezentacioniSloj.Models.KorisnikPocetnaViewModel
+
+
+<link rel="stylesheet" href="~/css/site.css" />
+
+@if (TempData["Poruka"] != null)
+{
+    <script defer>
+        alert("@TempData["Poruka"]");
+        console.log("radi");
+    </script>
+}
+
+<h1>Konkurisi za stipendiju</h1>
+<div class="stipendije">
+    @foreach (var stipendija in Model.Stipendije)
+    {
+        <div class="stipendija">
+            <h3>@stipendija.Naziv</h3>
+            <hr />
+            <div class="stipendija-container">
+                <label>Iznos:</label>
+                <p>@stipendija.Iznos</p>
+            </div>
+            <div class="stipendija-container">
+                <label>Akademski uspeh:</label>
+                <p>> @stipendija.Kriterijum.AkademskiUspeh</p>
+            </div>
+            <div class="stipendija-container">
+                <label>Finansijska potreba:</label>
+                <p>@(stipendija.Kriterijum.FinansijskaPotreba ? "DA" : "NE")</p>
+            </div>
+            <div class="stipendija-container">
+                <label>Drustveno angažovanje:</label>
+                <p>@(stipendija.Kriterijum.DrustvenoAngazovanje ? "DA" : "NE")</p>
+            </div>
+            <form method="post" asp-controller="Zahtev" asp-action="Konkurisi" asp-route-stipendijaId="@stipendija.Id">
+                <button class="konkurisi-btn" type="submit">Konkurisi</button>
+            </form>
+        </div>
+    }
+</div>
+<h2>Podneseni zahtevi </h2>
+<div class="zahtevi">
+    @foreach (var zahtev in Model.Zahtevi)
+    {
+        <div class="zahtev">
+            <h3>Zahtev @zahtev.Id</h3>
+            <hr />
+            <div class="row">
+                <div class="column">
+                    <div class="zahtev-container">
+                        <label>JMBG korisnika:</label>
+                        <p>@zahtev.JmbgKorisnika</p>
+                    </div>
+                    <div class="zahtev-container">
+                        <label>Finansijska potreba:</label>
+                        <p>@(zahtev.FinansijskaPotreba ? "DA" : "NE")</p>
+                    </div>
+                    <div class="zahtev-container">
+                        <label>Drustveno angažovanje:</label>
+                        <p>@(zahtev.DrustvenoAngazovanje ? "DA" : "NE")</p>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="zahtev-container">
+                        <label>Akademski uspeh:</label>
+                        <p>@zahtev.AkademskiUspeh</p>
+                    </div>
+                    <div class="zahtev-container">
+                        <label>Razlozi:</label>
+                        <p>@zahtev.Razlozi</p>
+                    </div>
+                    <div class="zahtev-container">
+                        <label>Status:</label>
+                        <p>
+                            @{
+                                if (zahtev.Status == "0")
+                                {
+                                    <text>Na čekanju</text>
+                                }
+                                else if (zahtev.Status == "1")
+                                {
+                                    <text>Odobreno</text>
+                                }
+                                else if (zahtev.Status == "2")
+                                {
+                                    <text>Odbijeno</text>
+                                }
+                                else
+                                {
+                                    <text>Nepoznat status</text>
+                                }
+                            }
+                        </p>
+                    </div>
+                    <div>
+                        <form method="post" asp-controller="Zahtev" asp-action="Stampa" asp-route-zahtevId="@zahtev.Id" >
+                            <button class="konkurisi-btn" type="submit">Stampa</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

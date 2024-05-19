@@ -1,0 +1,64 @@
+﻿@using SlojPodataka.Klase;
+@model Zahtev
+
+
+@{
+    Layout = null;
+}
+
+<style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+
+        h1, h2, h3, h4 {
+            color: #1f497d;
+        }
+
+        table {
+            margin: 20px auto;
+            border-collapse: collapse;
+            width: 80%;
+        }
+
+        table, th, td {
+            border: 1px solid #1f497d;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+
+        h4 {
+            margin-top: 20px;
+            color: #1f497d;
+        }
+    </style>
+    <h1>Stampa Vaseg zahteva</h1>
+    <h2>Republika Srbija</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>JmbgKorisnika</th>
+            <th>FinansijskaPotreba</th>
+            <th>DrustvenoAngazovanje</th>
+            <th>AkademskiUspeh</th>
+            <th>Razlozi</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.Id</td>
+            <td>@Model.JmbgKorisnika</td>
+            <td>@Model.FinansijskaPotreba</td>
+            <td>@Model.DrustvenoAngazovanje</td>
+            <td>@Model.AkademskiUspeh</td>
+            <td>@Model.Razlozi</td>
+            <td>@Model.Status</td>
+        </tr>
+    </tbody>
+</table>

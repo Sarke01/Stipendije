@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6b13a3cf-bab4-4efd-988d-cbbf6c52a926": {
+      "ProjectGuid": "6b13a3cf-bab4-4efd-988d-cbbf6c52a926",
+      "DisplayName": "PrezentacioniSloj",
+      "ColorIndex": 0
+    },
+    "f0380cb8-7d97-40f8-8f84-a1c8fae64fac": {
+      "ProjectGuid": "f0380cb8-7d97-40f8-8f84-a1c8fae64fac",
+      "DisplayName": "SlojPodataka",
+      "ColorIndex": 1
+    },
+    "c9bac242-3fad-4adb-873c-57ff8ebda047": {
+      "ProjectGuid": "c9bac242-3fad-4adb-873c-57ff8ebda047",
+      "DisplayName": "AplikacioniSloj",
+      "ColorIndex": 2
+    },
+    "49f9553f-0467-4de0-83d4-93c5765cfba5": {
+      "ProjectGuid": "49f9553f-0467-4de0-83d4-93c5765cfba5",
+      "DisplayName": "DomenskiSloj",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

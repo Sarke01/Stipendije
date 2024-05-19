@@ -1,0 +1,26 @@
+﻿@using PrezentacioniSloj.Models;
+
+@model PrijavaModel
+
+@{
+    ViewData["Title"] = "Prijava";
+}
+
+<div class="card mx-auto my-5 p-4" style="max-width: 500px;">
+    <h4 class="text-center mb-4">Prijava</h4>
+    <form asp-action="Prijava" method="post" class="form">
+        <div class="mb-3">
+            <label asp-for="Email" class="form-label">E-mail adresa<span class="text-danger"> *</span></label>
+            <input asp-for="Email" class="form-control">
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Lozinka" class="form-label">Lozinka<span class="text-danger"> *</span></label>
+            <input asp-for="Lozinka" type="password" class="form-control">
+            <span asp-validation-for="Lozinka" class="text-danger"></span>
+        </div>
+        <div class="text-center">
+            <button type="submit" class="btn btn-success btn-lg">PRIJAVI SE</button>
+        </div>
+    </form>
+</div>
